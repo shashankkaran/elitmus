@@ -5,13 +5,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  // apiKey: "AIzaSyBKGMjqy7jYkQ0ia7wxkGJwgiqMJnoQorQ",
-  // authDomain: "elitmus-163bf.firebaseapp.com",
-  // projectId: "elitmus-163bf",
-  // storageBucket: "elitmus-163bf.appspot.com",
-  // messagingSenderId: "220699025846",
-  // appId: "1:220699025846:web:4b5dbc63c28fcb3355e117",
-  // measurementId: "G-01ZTRXZDYR"
+
   apiKey: "AIzaSyC_AVy1_fCvJ4GVpfTwyvgUNInqAuixS44",
   authDomain: "sudoku-59fdf.firebaseapp.com",
   projectId: "sudoku-59fdf",
