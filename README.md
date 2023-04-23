@@ -67,6 +67,5 @@ Some of the possible scenarios of a dead-end are:
 
 ## Addtional Information:
 
-* The app is hosted on firebase. You can visit the app [here](https://elitmus-163bf.web.app/).
+* The app is hosted on netlify. You can visit the app [here](https://elitmus-treasure-hunt-shashank.netlify.app/).
 
-* If you find it difficult to solve the puzzle and want to get the solution anyway, you can use my [Sudoku Solution App](https://sudoku-solver-a4f72.web.app/) to do so.
